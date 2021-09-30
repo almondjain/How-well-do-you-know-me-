@@ -10,5 +10,5 @@ At last, Score will be displayed about how much correct answer they give.
 It would be fun to know how much my family & friends know about me as I can share this with them as well.
 
 ##Link to play the game
-"[Let's Play]https://replit.com/@almondjain/How-well-do-you-know-me#embed=1&output=1"
+"[Let's Play](https://replit.com/@almondjain/How-well-do-you-know-me#embed=1&output=1)"
 
